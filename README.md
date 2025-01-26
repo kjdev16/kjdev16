@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushagrajain16)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kjdev16)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagrajain16/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/KushagraJ16)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kushagrajain_16/)
@@ -28,15 +28,15 @@
 
 🏆 **GitHub Trophies:**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kushagrajain16)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kjdev16)
 
 📊 **GitHub Stats:**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kushagrajain16&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kjdev16&show_icons=true)
 
 🔥 **GitHub Streak Stats:**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=kushagrajain16)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kjdev16)
 
 
 Feel free to explore my repositories and projects. Connect with me on my social platforms – I'm always excited to engage with fellow developers and tech enthusiasts!
