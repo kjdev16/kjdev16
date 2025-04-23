@@ -3,7 +3,7 @@
 
 🚀 Welcome to my GitHub profile! I'm passionate about crafting digital experiences through web development. With a focus on both front-end and back-end technologies, I bring ideas to life.
 
-🛠️ **Skills:** C++ / JavaScript (JS) / HTML / CSS
+🛠️ **Skills:** ReactJS / JavaScript (JS) / Tailwind CSS / HTML / C++
 
 🔭 **Currently:** I'm working on building a program for DCT & LSB steganography to attach watermarks to another media files.
 
